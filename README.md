@@ -10,6 +10,7 @@ On loaded, the application automatically returned an array with 5 Youtube videos
 Users can click on 1 of the 5 listed videos to make it become the active video.
 And users can input new search terms to find other videos on Youtube. There is no 'submit' button for the search bar, instead, the search term is automatically submitted every 300 milliseconds.
 
+Click [here](http://lnyoutube.surge.sh/) to try the application. 
 -----------------------------------------------------------------------------
 Below is the original README from Mr.Stephen Grider.
 
