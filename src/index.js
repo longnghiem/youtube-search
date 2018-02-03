@@ -2,9 +2,9 @@ import _ from 'lodash';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import YoutubeSearch from 'youtube-api-search';
-import SearchBar from './components/search_bar';
-import VideoList from './components/video_list';
-import VideoDetail from './components/video_detail';
+import SearchBar from './Components/search_bar';
+import VideoList from './Components/video_list';
+import VideoDetail from './Components/video_detail';
 const API_KEY = 'AIzaSyAJ52ffae8YqUczIYLo3Z22Lm5bUKKqsoQ';
 
 class App extends Component {
