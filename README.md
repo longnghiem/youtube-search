@@ -1,7 +1,3 @@
-#  Source
-This project was initialized by Mr. Stephen Grider as teaching materials for course
-"Modern React with Redux" on Udemy.com.
-
 # Project Summary
 The objective of this project is to build a simple "Youtube search" application.
 
@@ -10,32 +6,17 @@ On loaded, the application automatically returned an array with 5 Youtube videos
 Users can click on 1 of the 5 listed videos to make it become the active video.
 And users can input new search terms to find other videos on Youtube. There is no 'submit' button for the search bar, instead, the search term is automatically submitted every 300 milliseconds.
 
-Click [here](http://lnyoutube.surge.sh/) to try the application. 
------------------------------------------------------------------------------
-Below is the original README from Mr.Stephen Grider.
-
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#Getting started
+Click [here](http://lnyoutube.surge.sh/) to try the application.
+Or clone the project:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/longsuomi/youtube-search.git
+> cd youtube search
 > npm install
 > npm start
 ```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+#  Source
+This project was initialized by Mr. Stephen Grider as teaching materials for course
+"Modern React with Redux" on Udemy.com.
+More details can be found [here](https://github.com/StephenGrider/ReduxSimpleStarter)
