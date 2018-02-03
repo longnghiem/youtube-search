@@ -12,7 +12,7 @@ Or clone the project:
 
 ```
 > git clone https://github.com/longsuomi/youtube-search.git
-> cd youtube search
+> cd youtube-search
 > npm install
 > npm start
 ```
