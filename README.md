@@ -11,7 +11,7 @@ Click [here](http://lnyoutube.surge.sh/) to try the application.
 Or clone the project:
 
 ```
-> git clone https://github.com/longsuomi/youtube-search.git
+> git clone https://github.com/longnghiem/youtube-search.git
 > cd youtube-search
 > npm install
 > npm start
