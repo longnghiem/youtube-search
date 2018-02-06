@@ -1,4 +1,4 @@
-# Project Summary
+# Youtube-search project Summary
 The objective of this project is to build a simple "Youtube search" application.
 
 On loaded, the application automatically returned an array with 5 Youtube videos, while having the search term 'cat and dog' as default. The first video item of the returned array is set to be the 'active' video and can be played as playing a normal Youtube video. On the other hand, the returned 5 videos are listed vertically with thumbnails and titles.
@@ -16,7 +16,7 @@ Or clone the project:
 > npm install
 > npm start
 ```
-#  Source
+#  Acknowledgments
 This project was initialized by Mr. Stephen Grider as teaching materials for course
 "Modern React with Redux" on Udemy.com.
 More details can be found [here](https://github.com/StephenGrider/ReduxSimpleStarter)
